@@ -1,0 +1,10 @@
+.user-data{
+    display:flex;
+    flex-direction:row;
+    justify-content: space-between;
+    flex-wrap:nowrap;
+    box-sizing:border-box;
+}
+.user-data p{
+    padding:20px;
+}
